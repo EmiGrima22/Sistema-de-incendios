@@ -1,6 +1,6 @@
 # Deteccion de incendios 
 
-![Tinkercad](imagenes\arduino.jpg)
+![Tinkercad](.\imagenes\arduino.jpg)
 
 ## Integrantes 
 - Grimaldi Emiliano
@@ -8,7 +8,7 @@
 
 ## Proyecto: Sistema de incendios.
 
-![Sistema de incendios](imagenes\sistemaDeIncendio.png)
+![Sistema de incendios](.\imagenes\sistemaDeIncendio.png)
 
 
 ## Descripción
