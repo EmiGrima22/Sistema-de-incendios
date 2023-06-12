@@ -74,7 +74,7 @@ bool detectarIncendio(String estacion, int temperatura)
 ~~~
 
 ## Link del proyecto 
-- [Proyecto](https://www.tinkercad.com/things/75A1FZXPWzx)
+- [Proyecto](https://www.tinkercad.com/things/75A1FZXPWzx?sharecode=z4TioD3nv0mDm1aPFqUz2jU0UYtwOZkDE59e2zzKrBw)
 
 ---
 ### Fuentes
